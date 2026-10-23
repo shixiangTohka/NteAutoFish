@@ -2,7 +2,11 @@
 
 <p align="center"><img src="docs/tray-icon.png" width="110" alt="托盘图标"></p>
 
-《异环》的自动钓鱼工具。纯屏幕识别 + 模拟键鼠，**不读游戏内存、不注入 DLL、不修改游戏文件**。
+> **异环自动钓鱼 × Neverness to Everness auto fishing bot**
+>
+> 《异环》自动钓鱼工具 — 纯屏幕识别 + 模拟键鼠，**不读游戏内存、不注入 DLL、不修改游戏文件**。
+>
+> Screen-vision based auto fishing for *Neverness to Everness* (NTE). No memory reading, no DLL injection, no game file modification. Windows 10/11 · C# · .NET Framework 4.x
 
 ## 功能
 
@@ -105,3 +109,8 @@ src/
   app.manifest     请求管理员权限 + DPI 感知
 build.bat          一键编译
 ```
+---
+
+**关键词 / Keywords**
+
+异环 自动钓鱼 钓鱼脚本 · 异环钓鱼辅助 · Neverness to Everness fishing · NTE auto fish · NTE fishing bot · screen vision automation · game bot · C# WinForms
