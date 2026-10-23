@@ -1,0 +1,16 @@
+# build output
+*.exe
+*.pdb
+bin/
+obj/
+
+# runtime files
+fish.log
+config.ini
+boot-error.log
+diag.log
+
+# release artifacts
+*.zip
+
+.vs/
